@@ -1,4 +1,4 @@
-# HackScan Project
+# Cyberwise Project
 
 ## Getting Started
 
@@ -7,7 +7,7 @@ Follow these steps to set up and run the project:
 ### Navigate to the project directory:
 
 ```bash
-cd hackscan
+cd cyberwise
 ```
 
 ### Install the dependencies:
